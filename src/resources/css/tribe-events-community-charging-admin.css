@@ -1,0 +1,17 @@
+
+#tribe-field-charge_single_event_cost,
+#tribe-field-charge_single_featured_event_cost,
+#tribe-field-charge_event_subscription_cost,
+#tribe-field-charge_event_subscription_term_quantity,
+#tribe-field-charge_event_subscription_term_type,
+#tribe-field-charge_featured_event_subscription_cost,
+#tribe-field-charge_featured_event_subscription_term_quantity,
+#tribe-field-charge_featured_event_subscription_term_type
+{
+	/*display: none;*/
+}
+
+
+.charge-single-event-enabled {
+	display: inline-block;
+}
